@@ -1,0 +1,5 @@
+a.wonderland@domain.net
+alice@example.com
+bob.the.builder@work.co.uk
+info-team@sub.domain.io
+support@company.org

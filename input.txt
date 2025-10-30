@@ -1,0 +1,5 @@
+Hello, my name is Alice. You can reach me at alice@example.com or support@company.org.
+I also have an old email: a.wonderland@domain.net. Please contact us for more info.
+My friend Bob's email is bob.the.builder@work.co.uk. Invalid email here: test@.com
+Another one: info-team@sub.domain.io.
+Duplicate email test: alice@example.com again.
